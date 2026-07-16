@@ -110,7 +110,6 @@ footer{
   position:absolute;
   top:0; left:0; right:0;
   height:10px;
-  background-image:radial-gradient(circle, var(--ink) 3px, transparent 3.5px);
   background-size:16px 16px;
   background-position:8px -6px;
   opacity:.15;

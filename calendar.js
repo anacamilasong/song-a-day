@@ -14,8 +14,8 @@ function buildCalendar(){
   const container = document.getElementById("months");
   const today = todayKey();
 
-  for (let m = 0; m < 12; m++){
-    const monthCard = document.createElement("div");
+for (let m = 7; m < 12; m++){    
+  const monthCard = document.createElement("div");
     monthCard.className = "month-card";
 
     const heading = document.createElement("h2");

@@ -19,28 +19,10 @@
 
 const SONGS = {
   "07-16": {
-    title: "Here Comes the Sun",
-    artist: "The Beatles",
-    spotifyId: "45yEy5WJywhJ3sDI28ajTm",
-    note: "A new year deserves a song about things getting better."
-  },
-  "02-14": {
-    title: "good 4 u",
-    artist: "Olivia Rodrigo",
-    spotifyId: "4ZtFanR9U6ndgddUvNcjcG",
-    note: "Not every Valentine's song has to be sweet."
-  },
-  "07-16": {
-    title: "Blinding Lights",
-    artist: "The Weeknd",
-    spotifyId: "0VjIjW4GlUZAMYd2vXMi3b",
-    note: "Today's pick — synth-pop perfection."
-  },
-  "10-31": {
-    title: "Bohemian Rhapsody",
-    artist: "Queen",
-    spotifyId: "7tFiyTwD0nx5a1eklYtX2J",
-    note: "Six minutes is a long time for a Halloween song, but this one earns it."
+    title: "Don't Dream It's Over",
+    artist: "Crowded House",
+    spotifyId: "7G7tgVYORlDuVprcYHuFJh",
+    note: ""
   },
 
   "08-03": {
@@ -88,7 +70,7 @@ const SONGS = {
   "08-10": {
     title: "Moves Like Jagger",
     artist: "Maroon 5 & Christina Aguilera",
-    spotifyId: "2IDDy8kQ6MFlzAbuRSy0xJ",
+    spotifyId: "1r299qCKBLgUS9XJ9m1kEx",
     note: ""
   },
   "08-11": {
@@ -213,8 +195,8 @@ const SONGS = {
   },
   "08-31": {
     title: "Mr. Loverman",
-    artist: "Shabba Ranks & Deborah Glasgow",
-    spotifyId: "5IYvn5BMdZ4Or8HV3N8rCQ",
+    artist: "Ricky Montgomery",
+    spotifyId: "2IVsRhKrx8hlQBOWy4qebo",
     note: ""
   }
 };
